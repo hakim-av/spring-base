@@ -1,4 +1,4 @@
-In this repository you will find a detailed explanation of how Spring Core roughly works from the inside 
+In this repository you will find a detailed explanation of how Spring Core works from the inside 
 and its key functionality. You will be able to understand exactly how Spring finds beans, creates beans, 
 and how it manages their life cycle when working with annotations. 
 
